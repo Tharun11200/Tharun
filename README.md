@@ -1,2 +1,0 @@
-# Tharun
-c programming codes
